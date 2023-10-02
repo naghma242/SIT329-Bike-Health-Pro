@@ -1,4 +1,4 @@
-// The BikeHealthPro module is designed to control a motor's speed based on an individual's BMI.
+// The BikeHealthPro module is designed to control a motor's speed based on an individual's BMI
 module BikeHealthPro (
     input clk,                  // System clock input
     input reset,                // System reset input
