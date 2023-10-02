@@ -1,4 +1,7 @@
-// Code your design here
+// Sprint 2
+// Name: Akshit Singh, ID: 221071548
+// Verilog dc motor design.sv
+
 module dc_motor (psw, pdcm, clk);
 input [2:0]psw; // 3 bit switch to control the DC motor
 output reg pdcm;
